@@ -1,18 +1,18 @@
 Hi 👋 I'm Martins Oloyede
 ================================
 
-Web developer, Tech enthusiast
+Frontend Web developer, Tech enthusiast
 ------------------------------
 
 I am a positive, enthusiastic, and competent Web developer, who over the years have taken certificate based courses on Web development which has improved my skills and ability. I have experience working alone and as a part of a team. I'm quietly confident, naturally curious, and perpetually working on improving my skills daily.
 
 * 🌍  I'm based in Lagos
 * ✉️  You can contact me at [oloyedemartins15@gmail.com](mailto:oloyedemartins15@gmail.com)
-* 🤝  I'm open to collaborating on react.js, Javascript projects!
+* 🤝  I'm open to collaborating on react.js, Javascript, Nextjs, Typescript projects!
 
 ### Skills
 
-Javascript, React.js, Next.js
+Javascript, React.js, Next.js, Typescript
 
 
 ### Socials
